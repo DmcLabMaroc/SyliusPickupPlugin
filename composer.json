@@ -1,7 +1,7 @@
 {
     "name": "dmclab/pickupdpd-plugin",
     "type": "sylius-plugin",
-    "description": "Pickup DPD plugin for Sylius.",
+    "description": "Pickup DPD 1.2.6 plugin for Sylius.",
     "license": "MIT",
     "require": {
         "php": "^7.1",
